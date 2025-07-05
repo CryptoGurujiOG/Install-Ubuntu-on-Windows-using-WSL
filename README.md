@@ -26,3 +26,11 @@ Like this 👇
 
 - It may take some time to download and install WSL.
 - Restart your PC after the installation is complete.
+
+## Step 3:
+
+![image alt](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL/blob/ba51783d39a640b6b5b37ef6ea688f9fdd25e1cb/Screenshot%203.png)
+
+- Open Ubuntu
+- Create your Username
+- Crate your Password
