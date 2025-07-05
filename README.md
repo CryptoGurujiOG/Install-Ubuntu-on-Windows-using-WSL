@@ -81,5 +81,10 @@ docker --version
 
 ---
 
+✅ Now you are ready to run Nodes on your Pc
+
 ## Watch my Step by Step Video Guide
+
+[![Watch on YouTube](https://img.youtube.com/vi/mpdwAlRyOrE/hqdefault.jpg)](https://youtu.be/mpdwAlRyOrE)
+
 
