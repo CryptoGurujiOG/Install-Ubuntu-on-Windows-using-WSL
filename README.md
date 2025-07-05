@@ -15,7 +15,7 @@ Open Windows PowerShell
 
 ## Step 2:
 
-Run the WSL Installation Command
+Run the WSL Installation Command 👇
 
 ```
 wsl --install
