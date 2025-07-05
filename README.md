@@ -24,5 +24,5 @@ Like this 👇
 
 ![image alt](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL/blob/324d30708e6d69259b9af26ac4a9a022e1109fc7/Screenshot%202.png)
 
-- It will take some time to Download and install WSL
-- 
+- It may take some time to download and install WSL.
+- Restart your PC after the installation is complete.
