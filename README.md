@@ -32,5 +32,4 @@ Like this 👇
 ![image alt](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL/blob/ba51783d39a640b6b5b37ef6ea688f9fdd25e1cb/Screenshot%203.png)
 
 - Open Ubuntu
-- Create your Username
-- Crate your Password
+- Create your Username and Password
