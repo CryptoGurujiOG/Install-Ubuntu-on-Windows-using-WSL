@@ -12,3 +12,11 @@ In this guide, I will walk you through step-by-step instructions on how to easil
 Open Windows PowerShell
 
 ![image alt](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL/blob/c1062e2232490323d907b3fc2aa65af413ce9fb9/Screenshot%201.png)
+
+## Step 2:
+
+Run the WSL Installation Command
+
+```
+wsl --install
+```
