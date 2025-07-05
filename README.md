@@ -87,4 +87,6 @@ docker --version
 
 [![Watch on YouTube](https://img.youtube.com/vi/mpdwAlRyOrE/hqdefault.jpg)](https://youtu.be/mpdwAlRyOrE)
 
-
+- Twitter: https://x.com/CryptoGurujiOG
+- Youtube: https://www.youtube.com/@CryptoGurujiOG
+- Telegram: https://www.telegram.me/cryptogurujiog
